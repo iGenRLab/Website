@@ -1,12 +1,16 @@
 ---
-title: "Tachyons for Style"
+title: "The Turning Points for Women Study"
 subtitle: "A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical particle that always moves faster than light."
-excerpt: "Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It’s a design system that provides very small (which means fast) CSS modules that you can use in your HTML."
+excerpt: "edit for first page Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It’s a design system that provides very small (which means fast) CSS modules that you can use in your HTML."
 date: 2019-07-03
-author: "Eric Anderson"
+author: "Dr. MSC"
 draft: false
 tags:
-  - hugo-site
+  - Juvenile Justice
+  - Longitudinal Research
+  - Criminal Legal System
+  - Allostatic Load
+  - Treatment Foster Care Oregon
 categories:
   - Theme Features
   - R
