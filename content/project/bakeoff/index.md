@@ -1,7 +1,7 @@
 ---
 title: "iGen Pilot"
-subtitle: "An R Package"
-excerpt: "This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the form front matter."
+subtitle: ""
+excerpt: "Building off the Turning Points study,  we are re-recruiting original participants (Generation 1) and, for the first time, also recruiting their offspring,  adolescents ages 13-19 (Generation 2).  The goal of this work is to identify malleable intervention targets for interrupting the cycle of and co-occurrence of maltreatment, and legal system involvement, and substance use that we know from prior research is both difficult to interrupt and sadly, very common."
 date: ""
 author: ""
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "The Turning Points for Women Study"
 subtitle: "A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical particle that always moves faster than light."
-excerpt: "edit for first page Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It’s a design system that provides very small (which means fast) CSS modules that you can use in your HTML."
+excerpt: "The Turning Points Study builds on an existing longitudinal study to further our understanding of the trajectories of women’s justice involvement across adolescence and adulthood. It is one of the longest ongoing studies examining women’s involvement in the juvenile justice and criminal justice systems. Our team will focus on understanding trajectories of trauma exposure and its sequalae, in order to identify salient points for prevention and intervention efforts. Another key goal of the project is to understand whether Treatment Foster Care Oregon (TFCO) delivered during adolescence has long-term benefits for women’s physiological health, as measured through an index of allostatic load."
 date: 2019-07-03
 author: "Dr. MSC"
 draft: false

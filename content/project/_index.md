@@ -1,5 +1,5 @@
 ---
-title: Read about our Research Projects
+title: Read about our ongoing projects
 description: ""
 author: ""
 show_post_thumbnail: true
