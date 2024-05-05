@@ -7,6 +7,6 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-A research lab in the Psychology Department at [insert]. :fr: 
+A research lab in the Psychology Department at Iowa State University. :fr: 
 
 I could add more text here for example
